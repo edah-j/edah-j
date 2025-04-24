@@ -5,19 +5,6 @@ Welcome to my GitHub!
 I'm just getting started on my journey to becoming a **Certified AWS Solutions Architect**. 
 Right now, I'm learning cloud fundamentals, gaining hands-on practice with AWS, and slowly adding coding and DevOps skills along the way.
 
----
-
-## 2025 Roadmap
-
-  Phase        | Focus Area                                     | Status        
- ------------|------------------------------------------------|---------------
- **Phase 1**  | Cloud Basics (AWS fundamentals, services, CLI) | In Progress 
- **Phase 2**  | AWS Certified Cloud Practitioner (CLF-C02)     | Coming Soon 
- **Phase 3**  | AWS Solutions Architect Associate (SAA-C03)    | Coming Soon 
- **Phase 4**  | Hands-on Projects & Labs                       | Coming Soon             
- **Phase 5**  | DevOps Tools, IaC (CloudFormation, Terraform)  | Coming Soon         
-
----
 
 ## What I'm Learning
 
@@ -60,7 +47,7 @@ I'm not a developer — but yes, basic coding helps!
 
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/edahjepleting)
+- [LinkedIn](www.linkedin.com/in/edahjepleting)
 - Email: edahjepleting@gmail.com
 
 ---
