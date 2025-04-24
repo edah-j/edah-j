@@ -47,7 +47,7 @@ I'm not a developer — but yes, basic coding helps!
 
 ## Let's Connect
 
-- [LinkedIn](www.linkedin.com/in/edahjepleting)
+- [LinkedIn](https://www.linkedin.com/in/edahjepleting)
 - Email: edahjepleting@gmail.com
 
 ---
