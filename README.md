@@ -26,7 +26,6 @@ The cloud isn’t just for engineers—it’s for curious minds ready to grow, b
 - Documenting my learning journey and cloud insights  
 - Contributing to beginner-friendly cloud resources and technical content  
 - Learning Python for scripting and automation  
-- Creating a wireframe and architecture plan for a patient portal (hosted on AWS)  
 
 ---
 
@@ -41,7 +40,6 @@ The cloud isn’t just for engineers—it’s for curious minds ready to grow, b
 
 ##  Projects (Coming Soon)
 
-- **AWS-hosted Patient Portal Prototype**  
 - **SAA Exam Study Notes** — Markdown guide for beginners  
 - **Static Portfolio Website** on S3 with Route 53 + CloudFront  
 
